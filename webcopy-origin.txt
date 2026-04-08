@@ -1,0 +1,276 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js
+File Name: C:\Sites\mangogrief.ru\ajax\libs\clipboard.js\2.0.4\clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Sites\mangogrief.ru\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Sites\mangogrief.ru\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Sites\mangogrief.ru\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Sites\mangogrief.ru\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Sites\mangogrief.ru\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Sites\mangogrief.ru\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Sites\mangogrief.ru\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js
+File Name: C:\Sites\mangogrief.ru\ajax\libs\jquery-easing\1.3\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js
+File Name: C:\Sites\mangogrief.ru\ajax\libs\jquery\3.1.0\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css
+File Name: C:\Sites\mangogrief.ru\ajax\libs\normalize\8.0.1\normalize.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Exo+2:400,700&display=swap&subset=cyrillic
+File Name: C:\Sites\mangogrief.ru\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/exo2/v21/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKsPdC6.ttf
+File Name: C:\Sites\mangogrief.ru\s\exo2\v21\7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKsPdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v21/7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWsPdC6.ttf
+File Name: C:\Sites\mangogrief.ru\s\exo2\v21\7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWsPdC6.ttf
+Content Type: font/ttf
+
+Uri: https://i.imgur.com/1m1a6Ak.png
+File Name: C:\Sites\mangogrief.ru\1m1a6Ak.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/3q0MLa2.png
+File Name: C:\Sites\mangogrief.ru\3q0MLa2.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/3U5wn3e.png
+File Name: C:\Sites\mangogrief.ru\3U5wn3e.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/6YHxaBc.jpg
+File Name: C:\Sites\mangogrief.ru\6YHxaBc.jpg
+Content Type: image/jpeg
+
+Uri: https://i.imgur.com/eETpJaj.png
+File Name: C:\Sites\mangogrief.ru\eETpJaj.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/Fsss2OE.png
+File Name: C:\Sites\mangogrief.ru\Fsss2OE.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/GuxK0vI.png
+File Name: C:\Sites\mangogrief.ru\GuxK0vI.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/hhrfKL8.png
+File Name: C:\Sites\mangogrief.ru\hhrfKL8.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/PowZxyV.jpg
+File Name: C:\Sites\mangogrief.ru\PowZxyV.jpg
+Content Type: image/jpeg
+
+Uri: https://i.imgur.com/UwiGX9L.png
+File Name: C:\Sites\mangogrief.ru\UwiGX9L.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/Y6brXB0.png
+File Name: C:\Sites\mangogrief.ru\Y6brXB0.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/ZBSlhqD.jpg
+File Name: C:\Sites\mangogrief.ru\ZBSlhqD.jpg
+Content Type: image/jpeg
+
+Uri: https://i.imgur.com/ZKyCpzs.png
+File Name: C:\Sites\mangogrief.ru\ZKyCpzs.png
+Content Type: image/png
+
+Uri: https://igra4.ru/wp-content/uploads/2020/06/6e0280d62e9d2de4a5d1dea3bee21a82.jpeg
+File Name: C:\Sites\mangogrief.ru\wp-content\uploads\2020\06\6e0280d62e9d2de4a5d1dea3bee21a82.jpeg
+Content Type: image/jpeg
+
+Uri: https://mangogrief.ru/
+File Name: C:\Sites\mangogrief.ru\index.htm
+Content Type: text/html
+
+Uri: https://mangogrief.ru/assets/methods/card.svg
+File Name: C:\Sites\mangogrief.ru\assets\methods\card.svg
+Content Type: image/svg+xml
+
+Uri: https://mangogrief.ru/assets/methods/card2.svg
+File Name: C:\Sites\mangogrief.ru\assets\methods\card2.svg
+Content Type: image/svg+xml
+
+Uri: https://mangogrief.ru/assets/methods/cardkzt.svg
+File Name: C:\Sites\mangogrief.ru\assets\methods\cardkzt.svg
+Content Type: image/svg+xml
+
+Uri: https://mangogrief.ru/assets/methods/cardua.svg
+File Name: C:\Sites\mangogrief.ru\assets\methods\cardua.svg
+Content Type: image/svg+xml
+
+Uri: https://mangogrief.ru/assets/methods/mobiles.png
+File Name: C:\Sites\mangogrief.ru\assets\methods\mobiles.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/assets/methods/qiwi.svg
+File Name: C:\Sites\mangogrief.ru\assets\methods\qiwi.svg
+Content Type: image/svg+xml
+
+Uri: https://mangogrief.ru/assets/methods/sberpay-logo-04.webp
+File Name: C:\Sites\mangogrief.ru\assets\methods\sberpay-logo-04.webp
+Content Type: 
+
+Uri: https://mangogrief.ru/assets/methods/sbp.svg
+File Name: C:\Sites\mangogrief.ru\assets\methods\sbp.svg
+Content Type: image/svg+xml
+
+Uri: https://mangogrief.ru/assets/methods/steam.svg
+File Name: C:\Sites\mangogrief.ru\assets\methods\steam.svg
+Content Type: image/svg+xml
+
+Uri: https://mangogrief.ru/assets/methods/yandexmoney.svg
+File Name: C:\Sites\mangogrief.ru\assets\methods\yandexmoney.svg
+Content Type: image/svg+xml
+
+Uri: https://mangogrief.ru/assets/script.js
+File Name: C:\Sites\mangogrief.ru\assets\script.js
+Content Type: application/javascript
+
+Uri: https://mangogrief.ru/assets/style.css
+File Name: C:\Sites\mangogrief.ru\assets\style.css
+Content Type: text/css
+
+Uri: https://mangogrief.ru/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Sites\mangogrief.ru\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Sites\mangogrief.ru\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Sites\mangogrief.ru\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Sites\mangogrief.ru\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Sites\mangogrief.ru\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Sites\mangogrief.ru\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Sites\mangogrief.ru\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Sites\mangogrief.ru\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Sites\mangogrief.ru\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Sites\mangogrief.ru\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/cdn-cgi/l/email-protection
+File Name: C:\Sites\mangogrief.ru\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://mangogrief.ru/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Sites\mangogrief.ru\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://mangogrief.ru/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Sites\mangogrief.ru\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://mangogrief.ru/cdn-cgi/styles/cf.errors.css
+File Name: C:\Sites\mangogrief.ru\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://mangogrief.ru/images/13.png
+File Name: C:\Sites\mangogrief.ru\images\13.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/images/14.png
+File Name: C:\Sites\mangogrief.ru\images\14.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/images/berserk.png
+File Name: C:\Sites\mangogrief.ru\images\berserk.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/images/case1.png
+File Name: C:\Sites\mangogrief.ru\images\case1.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/images/case2.png
+File Name: C:\Sites\mangogrief.ru\images\case2.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/images/case3.png
+File Name: C:\Sites\mangogrief.ru\images\case3.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/images/favicon.ico
+File Name: C:\Sites\mangogrief.ru\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://mangogrief.ru/images/hero.png
+File Name: C:\Sites\mangogrief.ru\images\hero.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/images/imperator.png
+File Name: C:\Sites\mangogrief.ru\images\imperator.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/images/lord.png
+File Name: C:\Sites\mangogrief.ru\images\lord.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/images/magma.png
+File Name: C:\Sites\mangogrief.ru\images\magma.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/images/paladin.png
+File Name: C:\Sites\mangogrief.ru\images\paladin.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/images/staff.png
+File Name: C:\Sites\mangogrief.ru\images\staff.png
+Content Type: image/png
+
+Uri: https://mangogrief.ru/images/zeus.png
+File Name: C:\Sites\mangogrief.ru\images\zeus.png
+Content Type: image/png
+
